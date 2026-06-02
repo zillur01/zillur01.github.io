@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-01-06 12:00:00-0500
+date: 2022-01-18 12:00:00-0500
 inline: true
 ---
 
-Paper on Cooperative traffic signal control accepted to AAMAS 2023.
+I officially started my graduate journey. Let's see what the future holds for me. Keep me in your prayers so that I can make my parents, my community, and my country proud one day.

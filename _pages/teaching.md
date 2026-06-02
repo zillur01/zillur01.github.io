@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: Courses taught as a teaching assistant
-nav: true
+nav: false
 display_categories: [UPenn]
 horizontal: False
 nav_order: 5

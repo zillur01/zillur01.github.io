@@ -3,7 +3,7 @@ layout: page
 permalink: /repositories/
 title: repositories
 description: Cool repositroies for projects in courses used for research and courses
-nav: true
+nav: false
 nav_order: 3
 ---
 

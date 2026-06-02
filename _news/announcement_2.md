@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Workshop paper to IROS 2022
-date: 2022-10-28 16:11:00-0400
+title: Joined UNLV Rebel Dynamics
+date: 2022-01-24 16:11:00-0400
 inline: True
 ---
 
-Glad to annouce that our paper on agile informative path planning for quadrotors with reinforcement learning was presented at the
-AI2R Worshop at IROS 2022 in Kyoto Japan.
+I joined Team UNLV Rebel Dynamics to work on a 1/10 scale self-driving car for the Bosch Future Mobility Challenge 2022. This is an international robotics competition. We were provided with a 1/10 scale car equipped with a Raspberry pi 4 processor, PiCamera, GPS,  and IMU module.
 
 
