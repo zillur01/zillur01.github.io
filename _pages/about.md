@@ -2,7 +2,7 @@
 layout: about
 title: about me
 permalink: /
-subtitle: University of Texas Austin, PhD Computer Science and Engineering
+# subtitle: University of Texas Austin, PhD Computer Science and Engineering
 
 profile:
   align: right
@@ -13,9 +13,6 @@ news: true  # includes a list of news items
 selected_papers: False  # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a robotics and Machine Learning enthusiast who is passionate about endowing robots with human like intelligence to plan and cooperate to complete tasks collectively. I was previously advised by Dr Guillaume Sartoretti and Dr. Ang Marcelo at the National University of Singapore, and Dr. Vijay Kumar at the University of Pennsylvania.
-
-I work at the intersection of multi-agent systems, reinforcement learning and foundation models to drive my research endeavors.
-If I am not in the lab, you would find me either playing tennis or listening to AI podcasts or playing my keyboard.
+Hello and welcome to my personal website! My name is Zillur Rahman, and I am currently working as a Systems Test Engineer at Waymo (Google self driving car). Before that, I worked as an AV Performance Analysis Engineer at Motional, another leading self driving car company. I obtained my Master of Science in Electrical and Computer Engineering from the University of Nevada, Las Vegas.  I received my Bachelor of Science(BSc) degree from Chittagong University of Engineering and Technology (CUET) in 2021. My research interests lie in the areas of machine learning, computer vision, and autonomous systems, and I am constantly exploring new technologies and techniques in these fields. You can learn more about my research here.
 
 
