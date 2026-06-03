@@ -494,10 +494,15 @@ footer.sticky-bottom {
 
     li {
       margin-bottom: 1rem;
-      .preview {
+      .preview-column {
+        display: flex;
+        align-items: stretch;
+      }
+      .preview-image {
         width: 100%;
         min-width: 80px;
-        max-width: 120px;
+        height: 100%;
+        min-height: 140px;
         object-fit: cover;
       }
       .abbr {
