@@ -19,15 +19,21 @@ Hello and welcome to my personal website! My name is Zillur Rahman, and I am cur
 
 ## Work Experience
 
-**Systems Test Engineer** | Waymo (Google Self-Driving Car)  
-*Current Position*
+**Systems Test Engineer** | Waymo  
+*August 2024 - Present*
 - Working on autonomous vehicle systems testing and validation
 - Developing test strategies for self-driving car systems
 
 **AV Performance Analysis Engineer** | Motional  
-*Previous Role*
+*January 2024 -  July 2024*
 - Analyzed autonomous vehicle performance metrics
 - Conducted performance analysis for self-driving systems
+
+**Research Assistant** | University of Nevada, Las Vegas (UNLV)  
+*January 2022 - December 2023*
+- Design and deploy Autoware Universe software stack on a self driving car.
+- Design and implement a PID controller for longitudinal speed control
+- Implement a pedestrian detection and tracking system to cover car blind spots using roadside infrastructure.
 
 ---
 
@@ -36,10 +42,9 @@ Hello and welcome to my personal website! My name is Zillur Rahman, and I am cur
 **Master of Science in Electrical and Computer Engineering**  
 University of Nevada, Las Vegas  
 *Graduated: December 2023*
-- GPA: 4.0
 
-**Bachelor of Science in Electrical and Computer Engineering**  
+**Bachelor of Science in Electrical and Electronic Engineering**  
 Chittagong University of Engineering and Technology (CUET)  
-*Graduated: 2021*
+*Graduated: May 2021*
 
 
