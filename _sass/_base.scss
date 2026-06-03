@@ -479,7 +479,8 @@ footer.sticky-bottom {
     }
   }
   h2.year {
-    color: var(--global-divider-color);
+    color: var(--global-text-color);
+    opacity: 0.9;
     border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;
     margin-top: 2rem;
@@ -496,7 +497,8 @@ footer.sticky-bottom {
       .preview {
         width: 100%;
         min-width: 80px;
-        max-width: 200px;
+        max-width: 120px;
+        object-fit: cover;
       }
       .abbr {
         height: 2rem;
@@ -542,6 +544,9 @@ footer.sticky-bottom {
               border-bottom: 1px dashed var(--global-text-color);
           }
         }
+      }
+      .periodical {
+        color: var(--global-text-color-light);
       }
       .links {
         a.btn {
