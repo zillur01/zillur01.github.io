@@ -2,28 +2,33 @@
 layout: page
 title: Traffic Signal Control
 description: Distributed traffic signal control with multi-agent reinforcement learning
-img: assets/img/tsc/1.png
+img: assets/img/projects/unlv_car_gif.gif
 importance: 1
 category: Research
 ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/tsc/1.png" title="Multi Agent Tracking" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/unlv_car_gif.gif" title="Multi Agent Tracking" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 
 
-Autonomous driving is the future, however autonomy will only be beneficial to society if vehicles and infrastructure can coordinate with each other to reduce traffic congestion and
-improve travel times. Intelligent decision making on the infrastructure side (e.g., traffic signals) is of paramount importance to regulate traffic flow. However, centralized control
-of the traffic infrastructure is infeasible, and in large metropolis that can count upwards of thousands of junctions, and decentralization will be necessary.
+UNLV Autonomous Vehicle: Our dedicated team has been deeply involved in advancing autonomous vehicle technology. I have had the privilege of leading a group of highly motivated graduate and undergraduate students in this endeavor. After over a year of dedicated effort, we are now witnessing promising results. We have successfully implemented self-driving technology on our university campus, utilizing a customized Lincoln MKZ equipped with an array of sensors, including 4 LiDARS, 5 RADARS, SONAR, 4 Lucid vision cameras, a thermal camera, IMU, GPS, and drive-by-wire technology. As for our software stack, we've tailored open-source Autoware Universe to accommodate our sensor suite, enabling the vehicle to operate autonomously within its Operational Design Domain (ODD). Our self-driving car rigorously adheres to all traffic regulations, including stop signs, traffic lights, right-of-way, parking, and more.
 
-This research was aimed at intelligent decision making for traffic signal control based on the traffic conditions at a junction (i.e number and speed of incoming vehicles,
-queue lengths,etc,) as well as the conditions of adjacent junctions. We use distributed reinforcement learning approaches to tackle the coordination problem. In particular, how do
-agents learn to coordinate traffic flow with their neighbors such that the ensuing behavior of an agent to cooperate results in citywide traffic flow improvements.
+Here is the summary of how we implemented the software stack:
+- Calibrated the sensors: get extrinsic and intrinsic parameters of LiDARS, cameras, etc learn more
+- Created HD map of the ODD: 3D SLAM map for localization and lanelet2 map for route networks and traffic rules. learn more
+- Interfacing: Converted actuator CAN messages like current velocity, steering angle, gear status, etc from the vehicle to Autoware-like format. Then converted the control commands generated from the autoware to CAN messages. 
 
-Checkout out our recent full paper titled "SocialLight: Distributed Cooperation Learning towards Network-Wide Traffic Signal Control" accepted
-to [AAMAS 2023](https://aamas2023.soton.ac.uk/program/accepted-papers/) for more details.
+code: https://github.com/zillur-av/mkz_interface 
+
+https://bitbucket.org/DataspeedInc/dbw_ros/src/ros2/
+
+I have made many changes to the interfacing module. If you need the exact code, please contact me. We are using the Lincoln MKZ 2017 hybrid model with dataspeed by-wire CAN systems. The by-wire system was installed by AutonomousStuff.
+Besides those major modifications, we needed to modify some programs related to the Ouster lidar message and IMU messages. Autoware Universe software stack works on top of ROS2 humble version. 
+
+github link: https://github.com/zillur-av/autoware
 
 
