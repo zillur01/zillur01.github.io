@@ -48,11 +48,11 @@ Hello and welcome to my personal website! My name is Zillur Rahman, and I am cur
 ## Education
 
 **Master of Science in Electrical and Computer Engineering**  
-<img src="/assets/img/4.jpg" alt="UNLV" style="height:28px; vertical-align:middle; border-radius:4px; margin-right:6px;"> University of Nevada, Las Vegas  
+<img src="/assets/img/unlv_logo.png" alt="UNLV" style="height:28px; vertical-align:middle; border-radius:4px; margin-right:6px;"> University of Nevada, Las Vegas  
 *Graduated: December 2023*
 
 **Bachelor of Science in Electrical and Electronic Engineering**  
-<img src="/assets/img/5.jpg" alt="CUET" style="height:28px; vertical-align:middle; border-radius:4px; margin-right:6px;"> Chittagong University of Engineering and Technology (CUET)  
+<img src="/assets/img/cuet_logo.png" alt="CUET" style="height:28px; vertical-align:middle; border-radius:4px; margin-right:6px;"> Chittagong University of Engineering and Technology (CUET)  
 *Graduated: May 2021*
 
 
