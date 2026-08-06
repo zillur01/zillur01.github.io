@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: zillur_photo.jpg
+  image: zillur_photo.jpeg
   image_circular: false # crops the image to make it circular
 
 news: true  # includes a list of news items
@@ -18,11 +18,11 @@ Hello and welcome to my personal website! My name is Zillur Rahman, and I am cur
 
 ## Work Experience
 
-**Robotics Research Engineer** | UIUC  
+**Robotics Research Engineer** | <img src="/assets/img/Illinois_logo.png" alt="UIUC" style="height:28px; vertical-align:middle; border-radius:4px; margin: 0 5px;"> UIUC  
 *July 2026 - Present*
 - Developing GEM E2 and E4 autonomous driving platform to enable student projects.
 
-**Systems Test Engineer** | Waymo  
+**Systems Test Engineer** | <img src="/assets/img/waymo_logo.jpeg" alt="Waymo" style="height:28px; vertical-align:middle; border-radius:4px; margin: 0 5px;"> Waymo  
 *August 2024 - June 2026*
 - Developed test automation scripts to enhance Waymo autonomous vehicle testing experience and rapid escalation of issues
 - Conducted root cause analysis of low voltage power fallbacks and developed triaging tools for technicians to follow
@@ -31,13 +31,13 @@ Hello and welcome to my personal website! My name is Zillur Rahman, and I am cur
 - Created an interactive visualization tool for tracking perception regression testing performance over time
 - Built Waymo motion control hardware-in-loop (HIL) platform with brake, steering, and VCU module and NI simulator
 
-**AV Performance Analysis Engineer** | Motional  
+**AV Performance Analysis Engineer** | <img src="/assets/img/motional_logo.jpg" alt="Motional" style="height:28px; vertical-align:middle; border-radius:4px; margin: 0 5px;"> Motional  
 *January 2024 -  July 2024*
 - Conducted root cause analysis of autonomous vehicle software and hardware issues encountered during testing sessions
 - Collaborated with test engineers and developers to implement solutions for seamless functionality and performance
 - Debugged and resolved vehicle requirement issues by analyzing CAN messages using Vector CANalyzer
 
-**Research Assistant** | University of Nevada, Las Vegas (UNLV)  
+**Research Assistant** | <img src="/assets/img/unlv_logo.png" alt="UNLV" style="height:28px; vertical-align:middle; border-radius:4px; margin: 0 5px;"> University of Nevada, Las Vegas (UNLV)  
 *January 2022 - December 2023*
 - Designed and deployed Autoware Universe software stack on a self driving car.
 - Designed and implemented a PID controller for longitudinal speed control
@@ -48,11 +48,11 @@ Hello and welcome to my personal website! My name is Zillur Rahman, and I am cur
 ## Education
 
 **Master of Science in Electrical and Computer Engineering**  
-University of Nevada, Las Vegas  
+<img src="/assets/img/4.jpg" alt="UNLV" style="height:28px; vertical-align:middle; border-radius:4px; margin-right:6px;"> University of Nevada, Las Vegas  
 *Graduated: December 2023*
 
 **Bachelor of Science in Electrical and Electronic Engineering**  
-Chittagong University of Engineering and Technology (CUET)  
+<img src="/assets/img/5.jpg" alt="CUET" style="height:28px; vertical-align:middle; border-radius:4px; margin-right:6px;"> Chittagong University of Engineering and Technology (CUET)  
 *Graduated: May 2021*
 
 
